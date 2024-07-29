@@ -1,0 +1,14 @@
+{
+    "var1" : 5,
+    "var2" : "Words asda",
+    "var3" : {
+        "id" : 5,
+        "name" : "Makayla"
+    },
+    "var4" : [
+        5,
+        3,
+        6,
+        7
+    ]
+}
